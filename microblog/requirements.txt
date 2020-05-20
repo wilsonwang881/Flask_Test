@@ -17,7 +17,7 @@ Flask-SQLAlchemy==2.3.2
 Flask-Stormpath==0.4.8
 Flask-WTF==0.14.2
 future==0.16.0
-httplib2==0.10.3
+httplib2==0.18.0
 idna==2.6
 iso8601==0.1.12
 isodate==0.6.0
